@@ -2,8 +2,14 @@
 class SchoolReport {
 
   grades(results) {
+     let grade = parseInt(results)
 
-    return "Red: 1"
 
+    if(grade <= 49){
+      return "Red: 1"
+
+    }else if(grade > 49 && grade <75){
+      return "Amber: 1"
+    }
   }
 }

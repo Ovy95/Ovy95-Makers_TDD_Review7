@@ -3,6 +3,11 @@
 Makers Process review to help grow a better TDD process.
 Friday 16th April.
 
+process 
+convect string to int 
+if statement comparing results to grades 
+
+
 
 Achool reports
 

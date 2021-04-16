@@ -12,6 +12,10 @@ describe("SchoolReport", function () {
       expect(schoolReport.grades("10")).toEqual("Red: 1")
     })
 
+    it("Given a value between 0-49 returns red",function() {
+      expect(schoolReport.grades("52")).toEqual("Amber: 1")
+    })
+
   })
 
 
