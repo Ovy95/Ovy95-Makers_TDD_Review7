@@ -33,7 +33,7 @@ Input || Output
 <!-- 3rd tests  -->
 "9, 60, 80"  || Green: 1\nAmber: 1\nRed: 1
 
-
+{}
 
 "1,10,45,60,80,100" --> "Green: 2\nAmber: 1\nRed: 3
 
@@ -41,3 +41,5 @@ Input || Output
 Edge cases 
 If wrong data type int for example 
 ArgumentError "Input must be a comma-separated string"
+
+test the range bounders
