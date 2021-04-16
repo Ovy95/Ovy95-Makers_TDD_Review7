@@ -42,4 +42,4 @@ Edge cases
 If wrong data type int for example 
 ArgumentError "Input must be a comma-separated string"
 
-test the range bounders
+test the range boundaries of the grading system min and maxs of each
